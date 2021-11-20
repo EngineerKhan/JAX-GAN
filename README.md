@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" width="480"\></p>
+## JAX GAN
 
 **This repository is forked from the Erik Lindernoren's PyTorch-GAN and aims at providing a JAX re-implementation of as much models as possible. Contribution is welcome**
 
